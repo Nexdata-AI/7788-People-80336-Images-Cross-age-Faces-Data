@@ -24,6 +24,6 @@ the people faces in different ages were collected
 ## Annotation content
 the human face bounding boxes were annotated for each subject
 ## Accuracy
-the accuracy exceeds 97% based on the accuracy of the sharpness and age group; the bounding box of
+the accuracy exceeds 97% based on the accuracy of the sharpness and age group; the bounding box of face is qualified when the deviation is not more than 3 pixels, and the qualified rate of the bounding box shall not be lower than 97%
 # Licensing Information
 Commercial License
